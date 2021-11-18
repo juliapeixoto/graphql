@@ -49,6 +49,22 @@
       "role": 3,
       "createdAt": "2021-11-17T00:00:00.000Z",
       "id": 7
+    },
+    {
+      "name": "Roberto Carlos",
+      "online": true,
+      "email": "rc@rc.com",
+      "role": 3,
+      "createdAt": "2021-11-18T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "name": "Fafá de Belém",
+      "online": true,
+      "email": "ff@ff.com",
+      "role": 2,
+      "createdAt": "2021-11-18T00:00:00.000Z",
+      "id": 9
     }
   ],
   "roles": [
